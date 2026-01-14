@@ -249,3 +249,16 @@ This tool is designed to:
 
 **Note**: This is an educational tool. While the AI provides intelligent suggestions, professional pianists and teachers should review fingerings for performance-critical applications.
 
+
+## ⚠️ Copyright Notice
+
+© 2026 Jeffrey Zhou. All rights reserved.
+
+This repository and its contents are protected by copyright law.  
+No part of this project may be copied, reproduced, modified, or distributed without prior written permission from the author.
+
+Commercial use is strictly prohibited.
+
+*Built with ❤️ for music education*
+
+
