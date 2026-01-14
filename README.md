@@ -11,6 +11,10 @@ An AI-powered web application that automatically generates optimal piano fingeri
 - **Manual Editing**: Click any note to adjust the suggested fingering
 - **Export**: Download annotated MusicXML with fingering included
 
+### 🔗 Live Demo
+
+  **Try it Now**: https://piano-fingering-planner-02.vercel.app/
+
 ### Musical Intelligence
 - **11 Pattern Types Recognized**:
   - Primary: SCALE, ARPEGGIO, REPEATED, LEAP, CHORDAL, MELODIC, UNKNOWN
@@ -244,3 +248,4 @@ This tool is designed to:
 ---
 
 **Note**: This is an educational tool. While the AI provides intelligent suggestions, professional pianists and teachers should review fingerings for performance-critical applications.
+
